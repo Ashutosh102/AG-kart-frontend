@@ -27,12 +27,12 @@ const Success = () => {
         <p className="description">
           If you have any questions, please email
           <a className="email" href="mailto:ashutoshmohanty3815@gmail.com">
-            DevAshu@developer.com
+            explosion@developers.com
           </a>
         </p>
         <Link href="/">
           <button type="button" width="300px" className="btn">
-            Continue Learning
+            Continue Shopping
           </button>
         </Link>
       </div>

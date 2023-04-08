@@ -4,7 +4,7 @@ import { AiFillInstagram, AiOutlineTwitter} from 'react-icons/ai';
 const Footer = () => {
   return (
     <div className="footer-container">
-      <p>2022 DevAshu Traders | All rights reserverd</p>
+      <p>2023 Team <a href="https://team-explosion.vercel.app/" style={{color: 'red'}}>XPLOSION</a> | All rights reserverd</p>
       <p className="icons">
         <AiFillInstagram />
         <AiOutlineTwitter />
